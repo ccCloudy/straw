@@ -11,5 +11,9 @@ public class StrawEurekaApplication {
     public static void main(String[] args) {
         SpringApplication.run(StrawEurekaApplication.class, args);
     }
+    /**
+     * 有吗有吗
+     */
+   
 
 }
